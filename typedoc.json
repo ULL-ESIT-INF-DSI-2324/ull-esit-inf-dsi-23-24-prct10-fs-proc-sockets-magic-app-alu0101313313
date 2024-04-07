@@ -1,0 +1,6 @@
+{
+  "entryPoints": [
+    "./src/prct10/*.ts"
+  ],
+  "out": "./docs"
+}
