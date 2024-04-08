@@ -8,12 +8,24 @@
 
 ## Introduccion
 
+En esta práctica nos encargaremos de aplicar un modelo _Cliente-Servidor_ sobre el repositorio de la [práctica anterior](https://github.com/ULL-ESIT-INF-DSI-2324/ull-esit-inf-dsi-23-24-prct09-filesystem-magic-app-alu0101313313) mediante el modulo **net** de **_Node.js_**.
 
+## Ficheros implementados
 
-### Ficheros implementados
+### Carta.ts
+
+### Coleccion.ts
+
+### Coleccionista.ts
+
+### ColeccionistaJSON.ts
 
 ## Modificación 8-4-23
 
 ## Conclusión
 
 ## Bibliografía
+
+1. **Enunciado de la práctica**: [https://ull-esit-inf-dsi-2324.github.io/prct10-fs-proc-sockets-magic-app/](https://ull-esit-inf-dsi-2324.github.io/prct10-fs-proc-sockets-magic-app/) 
+2. **Práctica anterior**: [https://github.com/ULL-ESIT-INF-DSI-2324/ull-esit-inf-dsi-23-24-prct09-filesystem-magic-app-alu0101313313](https://github.com/ULL-ESIT-INF-DSI-2324/ull-esit-inf-dsi-23-24-prct09-filesystem-magic-app-alu0101313313)
+3. ****[]()
